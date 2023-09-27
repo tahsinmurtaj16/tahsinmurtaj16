@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Mohammad Tahsin Murtaj</h1>
 <table> <tr> <td> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> </td> <td>
 <img align="left" alt="Coding" width="400" src="https://64.media.tumblr.com/1fe6b03dad63af0ec61c4ac087680667/tumblr_n7pywj2tco1rd1kpko2_r1_500.gif"> </td> </tr> </table> </p>
- <h3 align = "center" >A passionate Opeth(progressive death metal band from Sweden) fan who also posses a keen interest in Data Science, Machine learning, Deep learning & neural networks.</h3> 
+ <h3 align = "center" >I possess a keen interest in Data Science, Machine learning, Deep learning & neural networks.</h3> 
 
 - 🌱 I’m currently learning **Flask, and "How to win kaggle competition"!?**
 
